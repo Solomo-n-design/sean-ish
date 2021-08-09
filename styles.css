@@ -160,6 +160,7 @@ body {
 }
 
 .wallet-address {
+    margin: 150px;
     font-size: 10px;
 }
 
